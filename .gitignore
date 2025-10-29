@@ -1,0 +1,8 @@
+# Ignore build and IDE files
+/target/
+*.class
+*.log
+*.iml
+.idea/
+*.war
+*.jar
